@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.body {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto Slab", serif;
+  font-family: "Lato", sans-serif;
+}
+
+.Magazine {
+  margin: auto;
+  background: #edeff0;
+  width: 1366px;
+}/*# sourceMappingURL=style.css.map */
